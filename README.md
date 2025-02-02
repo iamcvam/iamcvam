@@ -2,7 +2,6 @@
 - 👀 I’m interested in tech
 - 🌱 I’m currently MBA
 - 📫 You can reach me via email
-- ⚡ Fun fact: I laugh a lot
 
 <!---
 iamshivamr/iamshivamr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
